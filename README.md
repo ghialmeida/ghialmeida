@@ -1,9 +1,9 @@
 
 ## 🚀 Sobre mim
-Eu me chamo Guilherme Almeida, tenho 19 anos, e sou um estudante da área de desenvolvimento de software, focado em QA.
+Eu me chamo Guilherme Almeida, tenho 19 anos, e sou um estudante de teste de software.
 
 ## 🔗 Link do portfolio
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ghialmeida?tab=repositories)
 
 ## 👩‍💻 Principal objetivo
-Ser uma referência de conhecimento na área de QA.
+Ser um profissional qualificado na área.
